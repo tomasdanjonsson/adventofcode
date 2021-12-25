@@ -23,7 +23,7 @@ format:
     @echo -e Formating with Black
     @black ./**/**/*.py ./**/**/*.ipynb
 
-# Typecheck python files
+# Typecheck all py files
 mypy:
     @mypy ./**/**/*.py
 

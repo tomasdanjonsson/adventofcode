@@ -1,4 +1,4 @@
-def part_one(lines: list) -> int:
+def part_one(lines: list[str]) -> int:
 
     counter: int = 0
 
@@ -9,7 +9,7 @@ def part_one(lines: list) -> int:
     return counter
 
 
-def part_two(lines: list) -> int:
+def part_two(lines: list[str]) -> int:
 
     counter: int = 0
 

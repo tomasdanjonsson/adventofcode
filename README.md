@@ -18,5 +18,5 @@ Available recipes:
     venv    # Create virtual environment
     day num # Create dir with solution template
     format  # Format all py & ipynb files
-    mypy
+    mypy    # Typecheck py files
 ```
