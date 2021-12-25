@@ -1,4 +1,4 @@
-# adventofcode
+# Advent of Code
 
 ## Getting Started
 
