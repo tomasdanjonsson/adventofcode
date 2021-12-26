@@ -25,5 +25,5 @@ format:
 
 # Typecheck all py files
 mypy:
-    @mypy ./**/**/*.py
+    @mypy
 
