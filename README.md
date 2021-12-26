@@ -21,7 +21,9 @@ Available recipes:
     mypy    # Typecheck py files
 ```
 
-## Progress
+## 2021
+
+### Progress
 
 | Day                                    | Stars |
 |:---------------------------------------|:------|

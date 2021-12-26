@@ -12,6 +12,7 @@ def part_one(lines: list[str]) -> int:
             depth -= int(command[-1:])
 
     solution = horizontal * depth
+
     print(f"{horizontal} * {depth} = {solution}")
 
     return solution
