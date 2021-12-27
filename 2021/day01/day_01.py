@@ -1,5 +1,4 @@
 def part_one(lines: list[str]) -> int:
-
     counter: int = 0
 
     for number in range(len(lines) - 1):
@@ -10,7 +9,6 @@ def part_one(lines: list[str]) -> int:
 
 
 def part_two(lines: list[str]) -> int:
-
     counter: int = 0
 
     for number in range(len(lines) - 3):
